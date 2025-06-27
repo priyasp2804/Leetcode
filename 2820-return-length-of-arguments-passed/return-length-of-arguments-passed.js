@@ -3,4 +3,4 @@ var argumentsLength = function(...args) {
     for(let n of args)
         count++;
     return count;
-}
+};
